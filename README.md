@@ -6,8 +6,6 @@ All of the questions can be found in the source folder [src/](./src/). If you're
 
 ## YouTube Playlist
 
----
-
 ### Description
 
 Each and every question in this repository is accompanied by a video explanation to maximize learning. Checkout my [YouTube Playlist](https://www.youtube.com/playlist?list=PL7Fuo6CuC94VhgNetXkHWiWr8VYFdIhU3) for in-depth explanations, including time and space complexity analysis for each solution.
