@@ -15,7 +15,8 @@ Each and every question in this repository is accompanied by a video explanation
 Take a look at the 5 most recently uploaded videos in my [Coding Interview Questions](https://www.youtube.com/playlist?list=PL7Fuo6CuC94VhgNetXkHWiWr8VYFdIhU3) YouTube Playlist
 
 <!-- YOUTUBE:START -->
-- [Amazon | Coding Interview Question | Two Sum](https://www.youtube.com/watch?v=vAZFJdhOq8M)
+- [LeetCode | Maximum Sum Obtained of Any Permutation | Coding Interview Question](https://www.youtube.com/watch?v=b7IA6SIV4U4)
+- [Amazon | Two Sum | Coding Interview Question](https://www.youtube.com/watch?v=vAZFJdhOq8M)
 <!-- YOUTUBE:END -->
 
 ## Contributing
